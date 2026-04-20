@@ -41,17 +41,7 @@ chat-app/
 ```
 
 ---
-
-## ⚡ Features
-
-| Feature | Details |
-|---|---|
-| **Multi-room** | Join any named room; rooms are created on-the-fly |
-| **Typing indicators** | See when others are typing in real time |
-| **Message history** | Last 50 messages shown on join |
-| **Emoji reactions** | React to any message with 👍❤️😂🔥👏 |
-| **Online user list** | Live sidebar showing who's in the room |
-| **System messages** | Join/leave events shown in chat |
+ 
 | **Color-coded avatars** | Each user gets a unique color |
 
 ---
