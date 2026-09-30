@@ -4,7 +4,7 @@ A real-time multi-room chat service built with **Node.js**, **Express**, and **S
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install dependencies
 ```bash
